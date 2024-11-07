@@ -1,3 +1,4 @@
 Code fait par Eduardo le joueur bis n1
 Moi, Nono, je cree un fichier pour conflit
 premiere ligne pour la partie Merge
+Nouvelle ligne Eduardo
